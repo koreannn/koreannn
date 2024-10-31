@@ -1,15 +1,15 @@
 # Introduce
 
-- 강릉원주대학교 전자반도체공학부
-- 강릉원주대학교 전자반도체공학부 LMAP(Laboratoy Machine Auditory Perception) 학부연구생
-- 네이버 Boostcamp AI Tech(NLP Domain) 7기
+- 강릉원주대학교 전자반도체공학부 (2019.03 ~ 2025.02)
+- 강릉원주대학교 전자반도체공학부 LMAP(Laboratoy Machine Auditory Perception) 학부연구생 (2024.01 ~ 2024.08)
+- 네이버 Boostcamp AI Tech(NLP Domain) 7기 (2024.07 ~ 2025.02)
 
 
 
-# Blog
+# Notes
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 [![GitHub Pages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://koreannn.github.io/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dailyreord.tistory.com/m/?fbclid=PAAaYCvpx2K65tX_HJHIweCvNgcrvX5UQmvWiWXV7lCDMJbp1NA-5Vq6LBmkY)
-
 
 
 
