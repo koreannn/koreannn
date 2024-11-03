@@ -23,9 +23,9 @@
   <a href="mailto:ghdtjdwo5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-    <a href="[https:](https://www.linkedin.com/in/onny-t-0769282b8/)">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-    </a>
+  <a href="[https:](https://www.linkedin.com/in/onny-t-0769282b8/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  </a>
 </div>
 
 
