@@ -8,7 +8,6 @@
 
 # Notes
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-[![GitHub Pages](https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://koreannn.github.io/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dailyreord.tistory.com/m/?fbclid=PAAaYCvpx2K65tX_HJHIweCvNgcrvX5UQmvWiWXV7lCDMJbp1NA-5Vq6LBmkY)
 
 
