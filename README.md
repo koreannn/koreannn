@@ -4,7 +4,7 @@
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dailyreord.tistory.com/m/)](https://dailyreord.tistory.com/m/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdtjdwo5@gmail.com)](mailto:ghdtjdwo5@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/)]((https://www.linkedin.com/in/onny-t-0769282b8/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EC%9E%AC-%ED%99%8D-0769282b8/)](https://www.linkedin.com/in/%EC%84%B1%EC%9E%AC-%ED%99%8D-0769282b8/)
 
 
 - 네이버 커넥트재단 부스트캠프 AI Tech(NLP Domain) 7기 (2024.07 ~ 2025.02)
