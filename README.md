@@ -1,33 +1,15 @@
-# Introduce
+### Introduce
 
-- 강릉원주대학교 전자반도체공학부 (2019.03 ~ 2025.02)
-- 강릉원주대학교 전자반도체공학부 LMAP(Laboratoy Machine Auditory Perception) 학부연구생 (2024.01 ~ 2024.07)
+...
+
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dailyreord.tistory.com/m/)](https://dailyreord.tistory.com/m/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdtjdwo5@gmail.com)](mailto:ghdtjdwo5@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/)]((https://www.linkedin.com/in/onny-t-0769282b8/))
+
+
 - 네이버 커넥트재단 부스트캠프 AI Tech(NLP Domain) 7기 (2024.07 ~ 2025.02)
-
-
-
-# Notes
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dailyreord.tistory.com/m/?fbclid=PAAaYCvpx2K65tX_HJHIweCvNgcrvX5UQmvWiWXV7lCDMJbp1NA-5Vq6LBmkY)
-
-
-
-# Stack
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-
-
-
-<div align=center>
-  <a href="mailto:ghdtjdwo5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-  <a href="[https:](https://www.linkedin.com/in/onny-t-0769282b8/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a>
-</div>
-
+- 강릉원주대학교 전자반도체공학부 졸업 (2019.03 ~ 2025.02)
+- 강릉원주대학교 전자반도체공학부 LMAP(Laboratoy Machine Auditory Perception) 학부연구생 (2024.01 ~ 2024.07)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
