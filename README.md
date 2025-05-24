@@ -5,6 +5,8 @@ AI 엔지니어 홍성재입니다.
 - 네이버 커넥트재단 부스트캠프 AI Tech(NLP Domain) 7기 (2024.07 ~ 2025.02)
 - 강릉원주대학교 전자반도체공학부 졸업 (2019.03 ~ 2025.02)
 - 강릉원주대학교 전자반도체공학부 음향신호처리 연구실 LMAP(Laboratoy Machine Auditory Perception) 학부연구생 (2024.01 ~ 2024.07)
+  - [2024 하계 종합 학술대회 - 음향 이벤트 검출 모델에 적용된 Pooling 방법에 따른 성능 변화에 대한 고찰](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891062)
+ 
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dailyreord.tistory.com/m/)](https://dailyreord.tistory.com/m/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdtjdwo5@gmail.com)](mailto:ghdtjdwo5@gmail.com)
