@@ -15,10 +15,10 @@ AI 엔지니어 홍성재입니다.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EC%9E%AC-%ED%99%8D-0769282b8/)](https://www.linkedin.com/in/%EC%84%B1%EC%9E%AC-%ED%99%8D-0769282b8/)
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=koreannn&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/koreannn"
-  width="500"
+  width="600"
   height="300"
 />
 </a>
