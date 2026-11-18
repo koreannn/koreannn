@@ -16,13 +16,17 @@ AI 엔지니어 홍성재입니다.
 
 
 
-<a href="https://www.gitanimals.org/">
-  <img
-    src="https://render.gitanimals.org/farms/koreannn?v=20261118"
-    width="600"
-    height="300"
-  />
-</a>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/farms/koreannn?v=20261118"
+      width="800"
+      height="300"
+    />
+  </a>
+</div>
+
 
 
   
